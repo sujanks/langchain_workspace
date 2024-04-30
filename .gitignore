@@ -1,0 +1,6 @@
+Pipfile
+local*
+.vscode
+.env
+requirements.txt
+scenario.txt
